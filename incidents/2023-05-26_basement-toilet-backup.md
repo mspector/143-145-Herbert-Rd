@@ -5,7 +5,14 @@
 - Basement toilet overflows when shower is used (we suspect due to the volume of water used).
 - After toilet flushes, a rhythmic dripping sound can be heard in the basement.
 
+## Background
+- In the weeks prior to the incident, we had the main plumbing stack replaced by 128 PHCE.
+  The plumbing for the basement toilet was not worked on, but they did (as a favor) replace the dirty old basement toilet
+  with a new one that we purchased.
+- Since moving in, we had used that toilet 6-10 times.
+
 ## Timeline
+
 **26 May 2023**
 - We noticed the basement toilet was overflowing, spilling water onto the concrete floor. 
   The water smelled bad (but not horrendously bad), and there was sewage in the toilet bowl. 
