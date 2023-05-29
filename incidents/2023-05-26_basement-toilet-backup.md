@@ -11,6 +11,7 @@
   The plumbing for the basement toilet was not worked on, but they did (as a favor) replace the dirty old basement toilet
   with a new one that we purchased.
 - Since moving in, we had used that toilet 6-10 times. It has not been used since the incident began.
+- We have been using the kitchen garbage disposal. It's loud and vibrates more than it seems like it should.
 
 ## Timeline
 
