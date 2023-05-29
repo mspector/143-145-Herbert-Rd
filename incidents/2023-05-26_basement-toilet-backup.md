@@ -1,5 +1,11 @@
 # Incident: basement toilet backs up, regurgitates sewage
 
+## Summary of observations
+- Basement toilet regurgitates water when toilets are flushed.
+- Basement toilet overflows when shower is used (we suspect due to the volume of water used).
+- After toilet flushes, a rhythmic dripping sound can be heard in the basement.
+
+## Timeline
 **26 May 2023**
 - We noticed the basement toilet was overflowing, spilling water onto the concrete floor. 
   The water smelled bad (but not horrendously bad), and there was sewage in the toilet bowl. 
@@ -27,3 +33,4 @@
 - We realized that the original overflow event may have been caused by our showering (in full or in part) as well.
 - We now think that something is causing the basement toilet to back up every time too much water is introduced into the plumbing system, 
   whether by toilet or shower.
+ 
