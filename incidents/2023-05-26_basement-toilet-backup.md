@@ -9,7 +9,7 @@
 - In the weeks prior to the incident, we had the main plumbing stack replaced by 128 PHCE.
   The plumbing for the basement toilet was not worked on, but they did (as a favor) replace the dirty old basement toilet
   with a new one that we purchased.
-- Since moving in, we had used that toilet 6-10 times.
+- Since moving in, we had used that toilet 6-10 times. It has not been used since the incident began.
 
 ## Timeline
 
