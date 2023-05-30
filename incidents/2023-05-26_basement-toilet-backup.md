@@ -5,6 +5,8 @@
 RotoRooter used a snake/auger to go through the horizontal cleanout closest to the water main.
   They noted that our house has a "house trap" - essentially a P-trap for the whole house - that prevents them from being able to run a
   root shredder through the sewer line. They recommended that we remove the house trap entirely.
+  
+Cost: $671.75
 
 ## Summary of observations
 - Basement toilet regurgitates water when water is used. Confirmed that use of toilets, shower, and sink all cause a backup.
