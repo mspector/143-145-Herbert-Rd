@@ -1,5 +1,11 @@
 # Incident: basement toilet backs up, regurgitates sewage
 
+## Status: resolved
+
+RotoRooter used a snake/auger to go through the horizontal cleanout closest to the water main.
+  They noted that our house has a "house trap" - essentially a P-trap for the whole house - that prevents them from being able to run a
+  root shredder through the sewer line. They recommended that we remove the house trap entirely.
+
 ## Summary of observations
 - Basement toilet regurgitates water when water is used. Confirmed that use of toilets, shower, and sink all cause a backup.
 - Basement toilet overflows when shower is used (we suspect due to the volume of water used).
@@ -45,4 +51,7 @@
 
 **29 May 2023** 
 - Confirmed with experiment that kitchen sink also causes water to back up in basement toilet.
+- **Incident resolved** by calling RotoRooter. They used a snake/auger to go through the horizontal cleanout closest to the water main.
+  They noted that our house has a "house trap" - essentially a P-trap for the whole house - that prevents them from being able to run a
+  root shredder through the sewer line. They recommended that we remove the house trap entirely.
  
