@@ -6,7 +6,7 @@
 - In doing so, they destroyed about 20' of pipe between the entrance of the house and the public sewer.
 - They replaced that pipe (again at no cost to us) and restored functionality.
 - In the process, they removed the two large shrubs from the front lawn area.
-- They plan to shoot the liner again today (2023-06-05).
+- The second attempt to shoot the pipe liner was successful.
 
 Cost: $530.00 (1-800-got-junk shrub removal)
 
@@ -46,3 +46,4 @@ Cost: $530.00 (1-800-got-junk shrub removal)
 
 **05 June 2023**
 - The Roto Rooter team returned to re-attempt the pipe liner.
+- This second attempt was successful.
